@@ -1,0 +1,2 @@
+# sufi_experiment1
+A collection of sample programs and projects created to practice programming, explore new technologies, and strengthen software development skills.
